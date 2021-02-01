@@ -1,0 +1,25 @@
+
+    *{
+        background-color:#f58a10
+    }
+    img {
+        border: solid;
+    }
+    h1 {
+        color:
+    }
+    a {
+        color:#ce07f1
+    }
+    .Car{
+        border: solid;
+        background-color:#d3c3a1
+    }
+    .Ball{
+        border: solid;
+        background-color:#d3c3c3;
+        display:flex;
+        justify-content:space-around
+    }
+    
+    
